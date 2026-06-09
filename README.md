@@ -1,5 +1,5 @@
 # Project Link 🔗
- [https://food-villa-tan.vercel.app/](https://food-villa-and-groceries.vercel.app/)
+ [https://food-villa-and-groceries.vercel.app/]
 
 # Food Villa 🍴
    - A dynamic and responsive food delivery web application built using ReactJS, showcasing efficient design and functionality for modern web development.
@@ -94,8 +94,8 @@
  # Installation & Setup 📦
 
   1. ## Clone the Repository: 
-    - [https://github.com/ROHIT3496484/FoodVilla-and-Groceries.git]
-    - cd FoodVilla-and-Groceries
+     [https://github.com/ROHIT3496484/FoodVilla-and-Groceries.git/]
+      cd FoodVilla-and-Groceries
 
   2. ## Install Dependencies: Ensure you have Node.js installed. Then run:
     - npm install
